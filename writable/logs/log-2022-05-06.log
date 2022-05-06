@@ -1,0 +1,255 @@
+CRITICAL - 2022-05-06 13:44:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:44:11 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:44:13 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:44:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:47:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:47:06 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:47:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:48:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:49:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:50:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:50:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:50:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:51:03 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:52:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:52:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:53:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:53:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 13:53:02 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-05-06 09:53:05 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 09:53:40 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 09:58:52 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:00:32 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:00:33 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:00:36 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:00:39 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:01:34 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:01:57 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:01:59 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:02:01 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:02:36 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-06 10:02:53 --> Invalid file: about_message.php
+#0 /var/www/html/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/codeigniter/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /var/www/html/codeigniter/app/Controllers/Home.php(13): view()
+#3 /var/www/html/codeigniter/system/CodeIgniter.php(825): App\Controllers\Home->about()
+#4 /var/www/html/codeigniter/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/codeigniter/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/codeigniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
