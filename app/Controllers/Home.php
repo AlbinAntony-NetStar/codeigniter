@@ -12,5 +12,8 @@ class Home extends BaseController
     {
         return view('about_message');
     }
-
+    public function contact()
+    {
+        return view('contact_page');
+    }
 }
